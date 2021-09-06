@@ -1,0 +1,17 @@
+html{
+    background-color: burlywood
+}
+
+.container-fluid{
+    background-color:burlywood;
+}
+
+input[type="text"]{
+    background-color: transparent;
+    color: red;
+}
+
+input[type="text"]:focus{
+    background-color: transparent;
+    color: black;
+}
